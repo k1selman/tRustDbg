@@ -1,3 +1,3 @@
 # tRustDbg
 
-Writing debugger in Rust.
+Writing a debugger in Rust.
